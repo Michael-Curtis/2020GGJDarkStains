@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="coundown_timer_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="9.9139890651" vpos="0" h="0.0000000000" zoom="24.3784311655" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Blues"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="COMMENTS" value="www.dvdvideosoft.com"/>
+		<tag name="TITLE" value="Countdown"/>
+		<tag name="ID3v1 Comment" value="www.dvdvideosoft.com"/>
+		<tag name="YEAR" value="2009"/>
+	</tags>
+	<wavetrack name="Countdown - Clock Only" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1363968">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808de0.au" len="262144" min="-0.299105" max="0.294214" rms="0.025819"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08080e3.au" len="262144" min="-0.247835" max="0.274436" rms="0.027513"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080844e.au" len="262144" min="-0.293098" max="0.297408" rms="0.030236"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808757.au" len="262144" min="-0.267718" max="0.30568" rms="0.033812"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e080866f.au" len="262144" min="-0.582204" max="0.590101" rms="0.088538"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808861.au" len="53248" min="-0.577517" max="0.648681" rms="0.09268"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
